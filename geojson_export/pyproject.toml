@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "geojson-export"
+version = "0.1.0"
+description = ""
+authors = ["Jan Beelte <jan.beelte@mailbox.org>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
