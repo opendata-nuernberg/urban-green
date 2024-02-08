@@ -1,3 +1,6 @@
+# Repository
+*.geojson
+
 # Mac
 .DS_Store
 

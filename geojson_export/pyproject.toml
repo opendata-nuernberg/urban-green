@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+geopandas = "^0.14.3"
+geobuf = "^1.1.1"
+protobuf = "^3.19.0"
 
 [build-system]
 requires = ["poetry-core"]
